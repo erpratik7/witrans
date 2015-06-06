@@ -1,0 +1,1 @@
+This is combine end semester project of Software Engineering and Distributed Computing. Purpose of this project is to design an application for Symbian powered mobile phone that let the mobile to communicate with other WiFi enable devices.
